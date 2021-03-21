@@ -1,9 +1,11 @@
 - 👋 Hi, I’m @Neeber - Australian Based Nerd, IT Support and Programmer
-- 👀 I’m interested in Board Games, Fitness and Rediscovering a love for Coding
-- 🌱 I’m currently learning **NodeJS** and Web App programming
-- 📫 How to reach me @NeeberTV on most things
 
 > Why do things the normal way when you can create them yourself?!
+
+- 👀 I’m interested in **Board Games**, **Fitness** and FTB **Minecraft**
+- 🌱 I’m currently learning **NodeJS** and Web App Programming
+- 📫 How to reach me @NeeberTV on most things
+
 
 <!---
 Neeber/Neeber is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
