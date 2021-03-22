@@ -9,8 +9,9 @@
 ## Current working projects:
 
 1. Digital Web Based Trivia Controller and Answer Sheet (NodeJS, EJS, MongoDB)
-2. OBS Overlay for NeeberTV - Including Sending Events, Creating Polls etc
-3. Data Manipulator to show Stats for our Board Game Group
+2. Live Trivia Buzz in App
+3. OBS Overlay for NeeberTV - Including Sending Events, Creating Polls etc
+4. Data Manipulator to show Stats for our Board Game Group
 
 
 <!---
