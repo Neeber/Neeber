@@ -6,7 +6,7 @@
 - 🌱 I’m currently learning **NodeJS** and Web App Programming
 - 📫 How to reach me @NeeberTV on most things
 
-##Current working projects:
+## Current working projects:
 
 1. Digital Web Based Trivia Controller and Answer Sheet (NodeJS, EJS, MongoDB)
 2. OBS Overlay for NeeberTV - Including Sending Events, Creating Polls etc
